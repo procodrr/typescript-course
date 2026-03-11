@@ -1,0 +1,11 @@
+// Primitive
+number
+string
+boolean
+bigint
+undefined
+null
+symbol
+
+// Non-primitive
+object
