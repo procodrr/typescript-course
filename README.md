@@ -1,6 +1,6 @@
-## Complete TypeScript Course Resources
+## The Ultimate TypeScript Course Resources
 
-Welcome to the official resource repository for the **Complete TypeScript Course** by **Anurag Singh ProCodrr**.
+Welcome to the official resource repository for the **The Ultimate TypeScript Course** by **Anurag Singh ProCodrr**.
 
 This repository contains all the resource files, code examples, notes, assignments, practice files, and project files used throughout the course.
 
