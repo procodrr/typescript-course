@@ -1,4 +1,4 @@
-## The Ultimate TypeScript Course Resources
+# The Ultimate TypeScript Course Resources
 
 Welcome to the official resource repository for the **The Ultimate TypeScript Course** by **Anurag Singh ProCodrr**.
 
