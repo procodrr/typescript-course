@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "rootDir": "./src",
+    "outDir": "./dist"
+  }
+}

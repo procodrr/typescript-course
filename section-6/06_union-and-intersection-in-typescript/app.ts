@@ -11,7 +11,17 @@ type T8 = unknown & T5;
 type T9 = "bye" & "by";
 type T10 = never | false;
 
-type T11 = "apple" | "mango" | "grapes" | "banana";
+type T13 = never;
+
+type T11 =
+  | "apple"
+  | "mango"
+  | "grapes"
+  | "banana"
+  | "TEST1"
+  | "TEST2"
+  | "TEST3"
+  | "TEST4";
 
 type T12 = Exclude<T11, "mango" | "grapes" | "banana">;
 
@@ -19,4 +29,4 @@ let a: number;
 let b: string;
 let c: string | number;
 
-let x: string & "h" = "h"
+let x: string & "h" = "h";

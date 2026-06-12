@@ -2,7 +2,7 @@ type T1 = number[] & { test: string };
 
 const arr = [1] as T1;
 
-arr.test = "hii"
+arr.test = "hii";
 
 console.log(arr);
 
@@ -18,6 +18,6 @@ console.log(arr);
 
 // const arr: T3 = [1, 2];
 
-
 // https://www.youtube.com/live/EYGlwD2DVHY
 // https://youtu.be/uN1zuV4DGRY
+// https://youtu.be/hDACN-BGvI8?t=1693
